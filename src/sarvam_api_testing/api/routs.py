@@ -144,7 +144,7 @@ async def parse_document(
         # STEP 3: Return parsed data
         return {
             "success": True,
-            "message": "Document parsed successfully",
+            "message": "Document  successfully",
             "filename": file.filename,
             "data": result
         }
